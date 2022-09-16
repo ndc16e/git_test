@@ -1,0 +1,2 @@
+Hello, world. I am learning to be a web developer. 
+I am going through The Odin Project in order to reach this goal. 
